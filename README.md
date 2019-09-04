@@ -4,7 +4,7 @@ Desculpe o transtorno, ainda estamos em fase de desenvolvimento. Nossa equipe es
 
 Como? 
 
-Basta você responder este pequeno [questionário](https://github.com/felipeesalmeida/meeps/edit/master/README.md) e compartilhar conosco algumas de suas experiências, ficaramos muito felizes em receber suas respostas. 
+Basta você responder este pequeno [_questionário_](https://github.com/felipeesalmeida/meeps/edit/master/README.md) e compartilhar conosco algumas de suas experiências, ficaramos muito felizes em receber suas respostas. 
 
 # O Que é o Meeps?
 
@@ -16,4 +16,4 @@ Então você está no lugar certo, o Meeps também permite que você vendedor po
 
 ## E aí? Ficou ansioso?
 
-Fique antenado com o nosso site e obtenha o acesso antecipado ao nosso App. Você não vai querer ficar fora dessa, não é mesmo?
+Fique antenado com o nosso site e obtenha o acesso antecipado ao nosso App. Você não vai querer ficar fora dessa_, não é mesmo?
