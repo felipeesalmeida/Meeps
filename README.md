@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Em Desenvolvimento
 
-You can use the [editor on GitHub](https://github.com/felipeesalmeida/meeps/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Desculpe o transtorno, ainda estamos em fase de desenvolvimento. Nossa equipe está trabalhando para lhe proporcionar uma melhor experiência e você pode nos ajundar!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Como? 
 
-### Markdown
+Basta você responder este pequeno [questionário](https://github.com/felipeesalmeida/meeps/edit/master/README.md) e compartilhar conosco algumas de suas experiências, ficaramos muito felizes em receber suas respostas. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# O Que é o Meeps?
 
-```markdown
-Syntax highlighted code block
+Uma plataforma Web-mobile feita especialmente para você que é universitário e adora comer algumas guloseimas no intervalo entre as aulas. Não acha o que você quer comer? Aqui você poderá encontrar muito mais guloseimas de muitos tipos diferente com vendedores especializados e matar aquela vontade de comer um bragadeiro... hummmm... ou quem sabe uma empadinha... ai, ai... Tudo isso na palma da sua mão!
 
-# Header 1
-## Header 2
-### Header 3
+### Mas, e se eu quiser vender minhas guloseimas?
 
-- Bulleted
-- List
+Então você está no lugar certo, o Meeps também permite que você vendedor possa divulgar seu produto de uma  maneira facil e rápida! Aqui você poderá aumentar o seu alcance, organizar melhor suas vendas, ter uma maior flexibilidade e consequentemente ganhar mais dinheiro ($$$)! 
 
-1. Numbered
-2. List
+## E aí? Ficou ansioso?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/felipeesalmeida/meeps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Fique antenado com o nosso site e obtenha o acesso antecipado ao nosso App. Você não vai querer ficar fora dessa, não é mesmo?
